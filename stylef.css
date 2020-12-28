@@ -1,0 +1,49 @@
+.Nombre {
+    width: 200px;
+    height: 20px;
+    border-style: solid ;
+    border-color: coral;
+    padding-bottom: 1.5px;
+
+}
+.Apellido {
+    width: 200px;
+    height: 20px;
+    border-style: double;
+    border-color: cornflowerblue;
+    padding-bottom: 2px;
+
+}
+
+ .Edad {
+   width: 40px;  
+   height: 20px;
+   border-style: solid;
+   border-color: gold;
+   padding-bottom: 2px;
+ }
+
+ .Sexo {
+     width: 40px;
+     height: 20px; 
+     border-style: solid;
+     border-color: red;
+     padding-bottom: 2px;
+ }
+
+  .Email {
+      width: 200px;
+      height: 20px;
+      border-style: solid;
+      border-color: saddlebrown;
+      padding-bottom: 2px;
+  }
+
+   .Dni {
+       width: 200px;
+       height: 20px;
+       border-style: solid;
+       border-color: salmon;
+       padding-bottom: 2px;
+       
+   }
