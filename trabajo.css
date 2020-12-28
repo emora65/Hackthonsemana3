@@ -1,0 +1,44 @@
+.Seccion1 {
+ background-color: skyblue;
+ width: 800px;
+ height: 420px;
+ background-image: unset;
+ text-align:left;
+ 
+}
+.caja1 {
+   width: 150px; 
+   height: 40px;
+   background-color: turquoise;
+}
+
+.Seccion2 {
+    width: 800px;
+    height: 200px;
+    background-color: lightcoral;
+  
+}
+
+ .Seccion3 {
+    width: 800px; 
+    height: 500px;
+    background-color: plum;
+
+ }
+ .Seccion4 {
+     width: 800px;
+     height: 200px;
+     background-color: yellow;
+ }
+
+ .Seccion5 {
+      width: 800px;
+      height: 200px;
+
+ }
+ .Seccion6 {
+     width: 800px;
+     height: 300px;
+     background-color: tomato;
+  
+ }
